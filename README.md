@@ -1,7 +1,5 @@
 # Oozy Linux
-## Arch, but for sane people
-
----
+**Arch, but for sane people**
 
 Oozy Linux is an Arch-based Linux distribution designed for people who want the power and flexibility of Arch without needing to already understand Linux.
 
