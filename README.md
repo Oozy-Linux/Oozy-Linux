@@ -49,6 +49,6 @@ Arch providew a powerful foundation with:
 - pacman (the package manager)
 - The Arch ecosystem 
 - Extensive Documentation 
-- The AUR (__A__rch __U__ser __R__epository) 
+- The AUR (**A**rch **U**ser **R**epository) 
 - A large ecosystem of packages 
 - A minimal highly customizable system 
