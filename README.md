@@ -97,3 +97,25 @@ Current priorities include:
 - [ ] Test on virtual machines
 - [ ] Test on real hardware
 - [ ] Release Oozy 1 mL
+
+---
+
+## 🤝 Contributing
+
+Oozy Linux is an open-source project and welcomes contributors.
+
+You don't need to be an Arch expert to contribute.
+
+Areas where help is especially useful:
+
+- 🐧 Linux / Arch development
+-n💻 Installer development
+- 🎨 UI/UX and graphic design
+- 📚 Documentation
+- 🧪 Testing
+- 🛠️ System configuration
+- 🌐 Website development
+- 💡 Ideas and feedback
+
+If you're interested in helping, check the project's issues and contribution guidelines.
+Every contribution helps the goo evolve.
