@@ -80,3 +80,20 @@ the first public release will be:
 
 ---
 
+## Current Status
+Oozy Linux is currently in the **early development and planning stage**.
+
+The project is not ready for daily use yet.
+
+Current priorities include:
+
+- [ ] Define the base system
+- [ ] Design the installation experience
+- [ ] Develop the Oozy installer
+- [ ] Establish package and update policies
+- [ ] Design the beginner learning experience
+- [ ] Create the Oozy branding
+- [ ] Build the first bootable prototype
+- [ ] Test on virtual machines
+- [ ] Test on real hardware
+- [ ] Release Oozy 1 mL
