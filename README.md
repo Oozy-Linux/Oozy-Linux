@@ -25,3 +25,30 @@ Whith Oozy, you start as a little goo ball.
 As you use the system, you learn more about Linux and gradually Evolve into bigger a goo ball step-by-step 
 
 **Oozy doesn't exist to keep you using it, it exists to help you and show you that once you get experienced enough, you can leave it and you won't need it anymore**
+
+---
+
+## Goals
+
+- make Arch-based Linux approachable to begginers 
+- Provide sensible defaults
+- Make installation simpler
+- Teach users how Linux works
+- Avoid unnecessary bloat
+- Preserve access to the Arch ecosystem (especially the AUR)
+- Make recovering from common mistakes easier
+- Build a friendly open-source community 
+
+---
+
+## Why Arch?
+
+Arch providew a powerful foundation with:
+
+- Rolling releases
+- pacman (the package manager)
+- The Arch ecosystem 
+- Extensive Documentation 
+- The AUR (__A__rch __U__ser __R__epository) 
+- A large ecosystem of packages 
+- A minimal highly customizable system 
