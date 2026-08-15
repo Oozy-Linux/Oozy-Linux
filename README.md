@@ -109,7 +109,7 @@ You don't need to be an Arch expert to contribute.
 Areas where help is especially useful:
 
 - 🐧 Linux / Arch development
--n💻 Installer development
+- 💻 Installer development
 - 🎨 UI/UX and graphic design
 - 📚 Documentation
 - 🧪 Testing
@@ -119,3 +119,27 @@ Areas where help is especially useful:
 
 If you're interested in helping, check the project's issues and contribution guidelines.
 Every contribution helps the goo evolve.
+
+---
+
+## Our Principle 
+
+> placeholder 
+
+Oozy should make Linux easy to enter without turning into a black box.
+
+Begginers should be able to use it.
+
+Curious users should be able to understand it.
+
+Experienced users should be able to customize it.
+
+And eventually, users should know enough to install Arch themselves.
+
+---
+
+## License
+
+License information will be added as the project develops
+
+---
