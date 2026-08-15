@@ -72,3 +72,11 @@ Oozy 5 L
 Oozy 20 L
 ...
 
+the first public release will be:
+
+### Oozy 1 mL
+
+**The first drop**
+
+---
+
