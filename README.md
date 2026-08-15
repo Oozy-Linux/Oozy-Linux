@@ -143,3 +143,9 @@ And eventually, users should know enough to install Arch themselves.
 License information will be added as the project develops
 
 ---
+
+## Oozy Linux
+
+**Arch, but for sane people.**
+
+***Start as goo. Learn Linux. Evolve.***
