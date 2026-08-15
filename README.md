@@ -149,3 +149,5 @@ License information will be added as the project develops
 **Arch, but for sane people.**
 
 ***Start as goo. Learn Linux. Evolve.***
+
+---
