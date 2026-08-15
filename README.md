@@ -63,14 +63,14 @@ Oozy versions are measured in **liquid volume**.
 
 Because apparently normal version numbers weren't gooey enough.
 
-Oozy 1 mL
-Oozy 10 mL
-Oozy 100 mL
-Oozy 500 mL
-Oozy 1 L
-Oozy 5 L
-Oozy 20 L
-...
+-- Oozy 1 mL
+-- Oozy 10 mL
+-- Oozy 100 mL
+-- Oozy 500 mL
+-- Oozy 1 L
+-- Oozy 5 L
+-- Oozy 20 L
+-- ...
 
 the first public release will be:
 
