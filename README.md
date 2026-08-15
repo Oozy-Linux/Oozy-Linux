@@ -124,7 +124,8 @@ Every contribution helps the goo evolve.
 
 ## Our Principle 
 
-> placeholder 
+> Oozy should teach, not hide.
+> Make Linux easy to enter, easy to understand, and eventually easy to leave.
 
 Oozy should make Linux easy to enter without turning into a black box.
 
