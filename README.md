@@ -49,6 +49,10 @@ Arch providew a powerful foundation with:
 - pacman (the package manager)
 - The Arch ecosystem 
 - Extensive Documentation 
-- The AUR (**A**rch **U**ser **R**epository) 
+- The **AUR** (**A**rch **U**ser **R**epository) 
 - A large ecosystem of packages 
 - A minimal highly customizable system 
+
+Oozy aims to provide that foundation without requiring beginners to understand everything before they can even reach the desktop.
+
+---
