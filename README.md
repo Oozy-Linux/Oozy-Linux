@@ -56,3 +56,10 @@ Arch providew a powerful foundation with:
 Oozy aims to provide that foundation without requiring beginners to understand everything before they can even reach the desktop.
 
 ---
+
+## Release Philosophy 
+
+Oozy versions are measured in **liquid volume**.
+
+Because apparently normal version numbers weren't gooey enough.
+
