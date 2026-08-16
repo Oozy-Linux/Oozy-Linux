@@ -63,7 +63,7 @@ Documentation should be understandable to someone who is still learning Linux.
 
 if you are going to contribute the the **O**perating **S**ystem development, make sure to read this book carefully
 
-[Download The Book](./stuff/)
+[Download The Book](./stuff/Helwan Book.pdf)
 
 ---
 
