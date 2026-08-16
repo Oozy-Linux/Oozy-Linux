@@ -139,13 +139,13 @@ And eventually, users should know enough to install Arch themselves.
 
 ---
 
-> It is made for begginers
+- > It is made for begginers
 
-> it teaches you that after you become an expert, you can leave it and switch to something harder
+- > it teaches you that after you become an expert, you can leave it and switch to something harder
 
-> if you want to stick with it, that's completely valid!
+- > if you want to stick with it, that's completely valid!
 
-> If you don't want to use Oozy Linux, the choice is yours! no one hired a hitman to sabotage you if you dont want to use Oozy (probably...).
+- > If you don't want to use Oozy Linux, the choice is yours! no one hired a hitman to sabotage you if you dont want to use Oozy (probably...).
 
 ---
 
